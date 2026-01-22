@@ -1,5 +1,5 @@
-# First_repo
-This is my first Git Repository.
+# Algorithms and Problem Solving Lab
+This is Algorithms and Problem Solving Lab Repo
 <br>
-Author: Priyanshi 
+Submitted by: Priyanshi Pachauri
 
